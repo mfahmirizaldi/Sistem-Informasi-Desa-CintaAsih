@@ -2,4 +2,4 @@
 session_start();
 session_destroy();
 unset($_SESSION['username']);
-header("Location:http://localhost/Sistem%20Informasi%20Desa%20CintaAsih/");
+header("Location:http://localhost/Sistem-Informasi-Desa-CintaAsih/");

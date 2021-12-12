@@ -133,7 +133,7 @@ $level = "pemohon";
 
                   </div>
                   <div class="mt-3" style="text-align: center;">
-                    <a class="btn btn-block btn-danger btn-lg font-weight-medium auth-form-btn" href="http://localhost/Sistem%20Informasi%20Desa%20CintaAsih/" style="text-align: center;margin-top: 4px;padding-top: 13px;">BATAL</a>
+                    <a class="btn btn-block btn-danger btn-lg font-weight-medium auth-form-btn" href="http://localhost/Sistem-Informasi-Desa-CintaAsih/" style="text-align: center;margin-top: 4px;padding-top: 13px;">BATAL</a>
                   </div>
                   <div class="text-center mt-4 font-weight-light" style="color: #1a2035">
                     Belum memiliki akun? <a href="register.php" class="text-primary" style="color: #1a2035!important; text-decoration:underline;">Buat</a>
