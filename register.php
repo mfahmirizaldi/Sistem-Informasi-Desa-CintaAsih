@@ -122,7 +122,7 @@
                 <div class="brand-logo">
                   <img src="main/img/logo_desa.png" width="150" height="54" alt="logo">
                 </div>
-                <h4 style="color: #1a2035;">HALAMAN REGISTER</h4>
+                <h4 style="color: #1a2035;">REGISTER</h4>
                 <h6 class="font-weight-light" style="color: #1a2035;">Signing up is easy. It only takes a few steps</h6>
                 <form method="POST" class="pt-3">
                   <div class="form-group">
